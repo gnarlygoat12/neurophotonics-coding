@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (calcium imaging recordings, Suite2p outputs, etc.)
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.mat
+*.tif
+*.tiff
+*.bin
+data/
+suite2p/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
